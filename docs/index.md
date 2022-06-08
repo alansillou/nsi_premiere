@@ -13,7 +13,7 @@ Et avec un retour à la ligne avec saut de ligne.
 Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
 
 ## Une image :
-![illustration mkdocs-material](https://squidfunk.github.io/mkdocs-material/assets/images/illustration.png)
+![illustration mkdocs-material](https://www.letudiant.fr/uploads/mediatheque/ETU_ETU/3/2/2232732-spe-nsi-original.jpg)
 
 ## Une liste :
 - Toto ;
