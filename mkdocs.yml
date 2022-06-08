@@ -22,8 +22,23 @@ docs_dir: docs
 # Structure du menu principal de navigation, chemins relatifs au dossier docs_dir
 nav: 
   - La page d'accueil : index.md
-  - Un notebook jupyter : Notebook.ipynb
-  # Référencer vos autres pages ci-dessus...
+  - jupyter : Notebook.ipynb
+  - sur les tableau en binaire: 3.5_Tableau Python Binaire.ipynb
+  - sur la compelxité des algorithmes : Algorithmique-Complexite.ipynb
+  - sur le tri des algorithmes : Algorithmique-Tri.ipynb
+  - sur la carte MicroBit : BBCmicrobit-Un_BN_Pour_MicroPython (1).ipynb
+  - sur le booléen : boole.ipynb
+  - sur la découverte du notebook : decouverte-notebook.ipynb
+  - sur quelques exercices sur python : exercices python.ipynb
+  - sur les fonctions : Fonction Maceo Quéran .ipynb
+  - sur l'hexadécimal : Hexadecimal-Autre_BN_pour_coder 3.ipynb
+  - sur le web dynamique : IHM_Web_Dynamique.ipynb
+  - sur le web statique : IHM_Web_Statique.ipynb
+  - sur les tableaux : Les_tableaux.ipynb
+  - sur les types : Les_types_construits.ipynb
+  - sur les logiques booléennes : Logique_Booleenne-Copy1.ipynb
+  - sur les logiques booléennes : Logique_Booleenne.ipynb
+  - sur le Network : 
 
 # Configuration du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/#configuration
 theme:
