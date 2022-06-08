@@ -1,8 +1,8 @@
-Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs et le thème Material.
+Bienvenue sur mon site regroupant tout mes notebooks de mon année de premiere en spécialité NSI.
 
 > Pour voir le code MarkDown sous jacent, cliquer sur le crayon en haut à droite.
 
-# Voici un titre de niveau 1
+# Mes notebooks
 ## Et voici un titre de niveau 2
 Ceci est un paragraphe.  
 Avec un retour à la ligne sans saut de ligne.
