@@ -3,8 +3,7 @@ Bienvenue sur mon site regroupant tout mes notebooks de mon année de premiere e
 > Pour voir le code MarkDown sous jacent, cliquer sur le crayon en haut à droite.
 
 # Mes notebooks
-## Et voici un titre de niveau 2
-Ceci est un paragraphe.  
+Ici, vous pourrez retrouver la plupart des notebooks que j'ai réalisé.
 Avec un retour à la ligne sans saut de ligne.
 
 Et avec un retour à la ligne avec saut de ligne.
@@ -12,7 +11,7 @@ Et avec un retour à la ligne avec saut de ligne.
 ## Un lien :
 Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
 
-## Une image :
+
 ![illustration mkdocs-material](https://www.letudiant.fr/uploads/mediatheque/ETU_ETU/3/2/2232732-spe-nsi-original.jpg)
 
 ## Une liste :
